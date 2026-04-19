@@ -1,0 +1,10 @@
+/* Allows usage of |center in the image link */
+span[aria-label^="center"] {
+    display: block;
+    text-align: center;
+}
+
+span[aria-label^="center"] img {
+    display: block;
+    margin: 0 auto;
+}
