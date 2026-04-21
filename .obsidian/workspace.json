@@ -156,31 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/SVM/SVM.md",
+                "file": "Machine Learning/Gaussian Mixture Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SVM"
-            }
-          },
-          {
-            "id": "9cca2c9b0c03d484",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "title": "Outline of Gaussian Mixture Model"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,21 +181,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "smart-lookup:Smart Lookup: Open lookup view": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5e78f0ecc56c6f1f",
   "lastOpenFiles": [
-    "Machine Learning/Hierarchical Clustering.md",
-    "Machine Learning/Gaussian Mixture Model.md",
     "Machine Learning/DBSCAN.md",
+    "Machine Learning/Hierarchical Clustering.md",
+    "Machine Learning/K-Mean.md",
     "Machine Learning/Clustering.md",
+    "Machine Learning/LDA.md",
+    "Machine Learning/Gaussian Mixture Model.md",
+    "Pasted image 20260421205101.png",
+    "Pasted image 20260421203322.png",
+    "Pasted image 20260421202541.png",
+    "Pasted image 20260421202544.png",
+    "Pasted image 20260421202543.png",
+    "Math/Bayes Theorem.md",
     "Machine Learning/Unsupervised Learning.md",
     "Machine Learning/PCA.md",
-    "Machine Learning/K-Mean.md",
     "K-Means.md",
     "Machine Learning/Tree-Based/Boosting.md",
     "Machine Learning/Tree-Based/Random Forests.md",
@@ -217,14 +211,11 @@
     "Machine Learning/Tree-Based/Recursive Binary Splitting.md",
     "Machine Learning/Tree-Based/Leaf Nodes.md",
     "Template/Topic.md",
-    "Machine Learning/Discriminant Analysis/LDA.md",
-    "Machine Learning/Discriminant Analysis/QDA.md",
+    "Machine Learning/QDA.md",
     "Machine Learning/SVM/SVM.md",
     "Machine Learning/SVM/Kernel Mapping.md",
     "Machine Learning/SVM/Dual Problem.md",
     "Machine Learning/SVM/Soft Margin.md",
-    "Machine Learning/SVM/Slack Variables.md",
-    "Machine Learning/SVM/Hard Margin.md",
     "Machine Learning/PCA",
     "Machine Learning/Discriminant Analysis",
     "Machine Learning/Tree-Based",

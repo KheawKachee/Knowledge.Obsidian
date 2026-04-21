@@ -13,7 +13,7 @@ aliases: []
 
 ### **Algorithm**
 
-DBSCAN determines clusters by categorizing every data point into one of three types based on two hyperparameters: a radius ($\epsilon$) and a minimum number of neighbors ($K$)
+DBSCAN determines clusters by categorizing every data point based on two hyperparameters: a radius ($\epsilon$) and a minimum number of neighbors ($K$)
 
 1.  **Core Points:** A point is a "core point" if it has at least $K$ neighbors within its $\epsilon$ radius.
 2.  **Border Points:** These fall within the $\epsilon$ radius of a core point but do not have enough neighbors themselves to be considered core points.
