@@ -12,7 +12,7 @@ aliases: []
 > Reslove [[Hard Margin]] with noisy points by using [[Slack Variables]] with $C$
 
 ## Key Ideas
-###  Soft Margin
+### Soft Margin
 To handle noise and blurry boundaries, we introduce **slack variables** $z_j$ and a regularization parameter $C$:
 
 $$\min_{w, b, z_j} \frac{1}{2} \|w\|_2^2 + C \sum_{j=1}^{m} z_j$$

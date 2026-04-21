@@ -9,7 +9,7 @@ aliases: []
 
 ## Summary
 > [!abstract] 
-> reformulated version of the primal problem, derived using [[Lagrangian multipliers]] $(\alpha , \beta)$ and [[Karush-Kuhn-Tucker]] (KKT) conditions
+> reformulated version of the primal problem, derived using [[Lagrangian Multipliers]] $(\alpha , \beta)$ and [[Karush-Kuhn-Tucker]] (KKT) conditions
 
 ## Concept
 
@@ -44,7 +44,7 @@ $$
 
 ## Differences from Primal Problem
 
-1. Minimize $\alpha$ ([[Lagrangian multipliers]]) instead of $w$ (geometric margin)
+1. Minimize $\alpha$ ([[Lagrangian Multipliers]]) instead of $w$ (geometric margin)
 2. parameters like $w,b$ is not learned parameters but product of $\alpha$
 
 ### Reasons to use

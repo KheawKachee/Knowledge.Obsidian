@@ -3,7 +3,8 @@ type: knowledge-note
 created: 2026-04-19 01:51
 tags:
   - Math_Optimization
-aliases: []
+aliases:
+  - Lagrangian Form
 ---
 
 

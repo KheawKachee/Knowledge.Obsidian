@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d02cae7b7a027788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Math Optimization/Lagrangian multipliers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lagrangian multipliers"
-            }
-          },
-          {
             "id": "5e78f0ecc56c6f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Math Optimization/Karush-Kuhn-Tucker.md",
+                "file": "Machine Learning/Gaussian Mixture Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Karush-Kuhn-Tucker"
+              "title": "Gaussian Mixture Model"
             }
           }
         ]
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5026054382324
   },
   "right": {
     "id": "d2375916527b730c",
@@ -194,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,29 +197,44 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d02cae7b7a027788",
+  "active": "5e78f0ecc56c6f1f",
   "lastOpenFiles": [
+    "Machine Learning/Hierarchical Clustering.md",
+    "Machine Learning/Gaussian Mixture Model.md",
+    "Machine Learning/DBSCAN.md",
+    "Machine Learning/Clustering.md",
+    "Machine Learning/Unsupervised Learning.md",
+    "Machine Learning/PCA.md",
+    "Machine Learning/K-Mean.md",
+    "K-Means.md",
+    "Machine Learning/Tree-Based/Boosting.md",
+    "Machine Learning/Tree-Based/Random Forests.md",
+    "Machine Learning/Tree-Based/Bagging.md",
+    "Machine Learning/Tree-Based/Node Purity.md",
+    "Machine Learning/Tree-Based/Decision Tree.md",
+    "Machine Learning/Tree-Based/Decision Nodes.md",
+    "Machine Learning/Tree-Based/Ensemble Decision Tree.md",
+    "Machine Learning/Tree-Based/Recursive Binary Splitting.md",
+    "Machine Learning/Tree-Based/Leaf Nodes.md",
+    "Template/Topic.md",
+    "Machine Learning/Discriminant Analysis/LDA.md",
+    "Machine Learning/Discriminant Analysis/QDA.md",
     "Machine Learning/SVM/SVM.md",
     "Machine Learning/SVM/Kernel Mapping.md",
-    "Math/Math Optimization/Lagrangian multipliers.md",
+    "Machine Learning/SVM/Dual Problem.md",
+    "Machine Learning/SVM/Soft Margin.md",
     "Machine Learning/SVM/Slack Variables.md",
     "Machine Learning/SVM/Hard Margin.md",
-    "Machine Learning/SVM/Dual Problem.md",
-    "Math/Math Optimization/Karush-Kuhn-Tucker.md",
-    "Machine Learning/SVM/Soft Margin.md",
-    "Template/Topic.md",
+    "Machine Learning/PCA",
+    "Machine Learning/Discriminant Analysis",
+    "Machine Learning/Tree-Based",
     "Math/Math Optimization",
     "Math",
-    "Template/Topic 1.md",
-    "Regularization Parameter.md",
-    "Machine Learning/SVM/Regularization Parameter.md",
     "Machine Learning/SVM/Pasted image 20260419001449.png",
     "Pasted image 20260419000627.png",
     "Machine Learning/SVM/Pasted image 20260419000711.png",
     "Machine Learning/SVM",
     "Machine Learning",
-    "Untitled.md",
-    "Template",
-    "Welcome.md"
+    "Template"
   ]
 }

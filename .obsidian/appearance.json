@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 12,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "center-image"
-  ]
+  ],
+  "theme": "obsidian"
 }

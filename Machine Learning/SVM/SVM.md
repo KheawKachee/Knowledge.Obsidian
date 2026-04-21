@@ -31,25 +31,8 @@ $$distance = \frac{|w^T (x^+ - x^-)|}{\|w\|_2} = \frac{|1 - b - (-1 - b)|}{\|w\|
 [[Hard Margin]] make noisy data shift hyperplane drastically, [[Soft Margin]] relaxes the objective function with [[Slack Variables]] and *regularization parameter*
 
 ### [[Dual Problem]] formulation
- 
-$$
-\arg\max_{\alpha,\beta \in \mathbb{R}^n}
-\mathbf{1}^T \alpha
--\frac{1}{2}\sum_{i=1}^{m}\sum_{j=1}^{m}\alpha_i\alpha_j y_i y_j x_i^T x_j
-$$
 
-subject to
-
-$$
-\sum_{j=1}^{m}\alpha_j y_j = 0
-$$
-
-$$
-\alpha_j = C - \beta_j,\qquad \alpha_j,\beta_j \ge 0
-$$
-
-for $j=1,\ldots,m$
-
+![[Dual Problem#Concept]]
 
 
 ### One Versus the Rest
