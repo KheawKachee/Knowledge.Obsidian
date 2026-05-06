@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Gaussian Mixture Model.md",
+                "file": "Engineering/Mutual Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaussian Mixture Model"
+              "title": "Mutual Information"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Gaussian Mixture Model.md",
+                "file": "Engineering/Mutual Information.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gaussian Mixture Model"
+              "title": "Outline of Mutual Information"
             }
           }
         ],
@@ -186,12 +186,24 @@
   },
   "active": "5e78f0ecc56c6f1f",
   "lastOpenFiles": [
+    "Engineering/K.md",
+    "Engineering/Mutual Information.md",
+    "Engineering/Target Encoding.md",
+    "Engineering/Augmentation.md",
+    "Feature Engineering.md",
+    "Engineering/Pseudo-Labelling.md",
+    "Deep Learning/Efficientnet.md",
+    "Engineering",
+    "Machine Learning/SVM/Dual Problem.md",
+    "Math/Math Optimization/Lagrangian Multipliers.md",
+    "Template/Topic.md",
+    "Deep Learning",
+    "Machine Learning/Gaussian Mixture Model.md",
     "Machine Learning/DBSCAN.md",
     "Machine Learning/Hierarchical Clustering.md",
     "Machine Learning/K-Mean.md",
     "Machine Learning/Clustering.md",
     "Machine Learning/LDA.md",
-    "Machine Learning/Gaussian Mixture Model.md",
     "Pasted image 20260421205101.png",
     "Pasted image 20260421203322.png",
     "Pasted image 20260421202541.png",
@@ -207,15 +219,6 @@
     "Machine Learning/Tree-Based/Node Purity.md",
     "Machine Learning/Tree-Based/Decision Tree.md",
     "Machine Learning/Tree-Based/Decision Nodes.md",
-    "Machine Learning/Tree-Based/Ensemble Decision Tree.md",
-    "Machine Learning/Tree-Based/Recursive Binary Splitting.md",
-    "Machine Learning/Tree-Based/Leaf Nodes.md",
-    "Template/Topic.md",
-    "Machine Learning/QDA.md",
-    "Machine Learning/SVM/SVM.md",
-    "Machine Learning/SVM/Kernel Mapping.md",
-    "Machine Learning/SVM/Dual Problem.md",
-    "Machine Learning/SVM/Soft Margin.md",
     "Machine Learning/PCA",
     "Machine Learning/Discriminant Analysis",
     "Machine Learning/Tree-Based",
