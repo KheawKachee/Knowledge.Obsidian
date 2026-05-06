@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "3e2863a7f99b7613",
+    "id": "7b571583beb59566",
     "type": "split",
     "children": [
       {
-        "id": "e5a835650655e4c0",
+        "id": "cd881bf154d18f13",
         "type": "tabs",
         "children": [
           {
-            "id": "5e78f0ecc56c6f1f",
+            "id": "c455e062532a21cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Engineering/Mutual Information.md",
-=======
-                "file": "Machine Learning/Untitled.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Deep Learning/Efficient-net.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Mutual Information"
-=======
-              "title": "Untitled"
->>>>>>> refs/remotes/origin/main
+              "title": "Efficient-net"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a5ecae3d0c1c95c",
+    "id": "82c418ecc229d15c",
     "type": "split",
     "children": [
       {
-        "id": "7b60e5bc1086c505",
+        "id": "6bc3283c87b120ab",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6a05f741106323",
+            "id": "25361abb9ca58182",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +48,12 @@
             }
           },
           {
-            "id": "4094a41a5b761094",
+            "id": "e01e5b0e6cf53b32",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Optimization",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "623ddc29930eee57",
+            "id": "e2c524d5aa02faab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5026054382324
+    "width": 326.5
   },
   "right": {
-    "id": "d2375916527b730c",
+    "id": "81655493a4d7f7da",
     "type": "split",
     "children": [
       {
-        "id": "1da5f53220172473",
+        "id": "f9e6d21fc25f4b1c",
         "type": "tabs",
         "children": [
           {
-            "id": "6814d1f36b3d3e74",
+            "id": "b344674b78b97561",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/SVM/SVM.md",
+                "file": "Deep Learning/Efficient-net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SVM"
+              "title": "Backlinks for Efficient-net"
             }
           },
           {
-            "id": "b50923eed4d3dc09",
+            "id": "6d520982a3f5d204",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/SVM/SVM.md",
+                "file": "Deep Learning/Efficient-net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SVM"
+              "title": "Outgoing links from Efficient-net"
             }
           },
           {
-            "id": "a2d16d0a6bc01d5d",
+            "id": "19735132b27cd5f6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,7 +137,7 @@
             }
           },
           {
-            "id": "4c06071389e377b6",
+            "id": "55939a21ecd2a43b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -159,39 +151,31 @@
             }
           },
           {
-            "id": "0bd458fa5aeba8ec",
+            "id": "b57af30f6346bede",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Engineering/Mutual Information.md",
-=======
-                "file": "Machine Learning/Untitled.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Deep Learning/Efficient-net.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of Mutual Information"
-=======
-              "title": "Outline of Untitled"
->>>>>>> refs/remotes/origin/main
+              "title": "Outline of Efficient-net"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -200,80 +184,6 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e78f0ecc56c6f1f",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Engineering/K.md",
-    "Engineering/Mutual Information.md",
-    "Engineering/Target Encoding.md",
-    "Engineering/Augmentation.md",
-    "Feature Engineering.md",
-    "Engineering/Pseudo-Labelling.md",
-    "Deep Learning/Efficientnet.md",
-    "Engineering",
-    "Machine Learning/SVM/Dual Problem.md",
-    "Math/Math Optimization/Lagrangian Multipliers.md",
-    "Template/Topic.md",
-    "Deep Learning",
-    "Machine Learning/Gaussian Mixture Model.md",
-    "Machine Learning/DBSCAN.md",
-    "Machine Learning/Hierarchical Clustering.md",
-    "Machine Learning/K-Mean.md",
-    "Machine Learning/Clustering.md",
-    "Machine Learning/LDA.md",
-=======
-    "Machine Learning/Feature Engineering.md",
-    "Machine Learning/Untitled.md",
-    "Machine Learning/Algorithm/Tree-Based/XGBoost.md",
-    "Machine Learning/Machine Learning Algorithm/Untitled.md",
-    "Machine Learning",
-    "Machine Learning/Algorithm/Tree-Based/Boosting.md",
-    "Machine Learning/Algorithm/Gaussian Mixture Model.md",
-    "Machine Learning/Algorithm/DBSCAN.md",
-    "Machine Learning/Algorithm/Hierarchical Clustering.md",
-    "Machine Learning/Algorithm/K-Mean.md",
-    "Machine Learning/Algorithm/Clustering.md",
-    "Machine Learning/Algorithm/LDA.md",
->>>>>>> refs/remotes/origin/main
-    "Pasted image 20260421205101.png",
-    "Pasted image 20260421203322.png",
-    "Pasted image 20260421202541.png",
-    "Pasted image 20260421202544.png",
-    "Pasted image 20260421202543.png",
-    "Math/Bayes Theorem.md",
-    "Machine Learning/Algorithm/Unsupervised Learning.md",
-    "Machine Learning/Algorithm/PCA.md",
-    "K-Means.md",
-<<<<<<< HEAD
-    "Machine Learning/Tree-Based/Boosting.md",
-    "Machine Learning/Tree-Based/Random Forests.md",
-    "Machine Learning/Tree-Based/Bagging.md",
-    "Machine Learning/Tree-Based/Node Purity.md",
-    "Machine Learning/Tree-Based/Decision Tree.md",
-    "Machine Learning/Tree-Based/Decision Nodes.md",
-=======
-    "Machine Learning/Algorithm/Tree-Based/Random Forests.md",
-    "Machine Learning/Algorithm/Tree-Based/Bagging.md",
-    "Machine Learning/Algorithm/Tree-Based/Node Purity.md",
-    "Machine Learning/Algorithm/Tree-Based/Decision Tree.md",
-    "Machine Learning/Algorithm/Tree-Based/Decision Nodes.md",
-    "Machine Learning/Algorithm/Tree-Based/Ensemble Decision Tree.md",
-    "Machine Learning/Algorithm/Tree-Based/Recursive Binary Splitting.md",
-    "Machine Learning/Algorithm/Tree-Based/Leaf Nodes.md",
-    "Template/Topic.md",
-    "Machine Learning/Algorithm/QDA.md",
-    "Machine Learning/Algorithm/SVM/SVM.md",
->>>>>>> refs/remotes/origin/main
-    "Machine Learning/PCA",
-    "Machine Learning/Discriminant Analysis",
-    "Machine Learning/Algorithm/Tree-Based",
-    "Math/Math Optimization",
-    "Math",
-    "Machine Learning/SVM/Pasted image 20260419001449.png",
-    "Pasted image 20260419000627.png",
-    "Machine Learning/SVM/Pasted image 20260419000711.png",
-    "Machine Learning/Algorithm/SVM",
-    "Machine Learning/Algorithm",
-    "Template"
-  ]
+  "active": "c455e062532a21cd",
+  "lastOpenFiles": []
 }
