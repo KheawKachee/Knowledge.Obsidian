@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Efficient-net.md",
+                "file": "Coding Best Practice/Kaggle Arrangement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Efficient-net"
+              "title": "Kaggle Arrangement"
             }
           }
         ]
@@ -185,5 +185,9 @@
     }
   },
   "active": "c455e062532a21cd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Deep Learning/Efficient-net.md",
+    "Coding Best Practice/Kaggle Arrangement.md",
+    "Coding Best Practice"
+  ]
 }
