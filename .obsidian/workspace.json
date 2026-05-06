@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Best Practice/Kaggle Arrangement.md",
+                "file": "Engineering/Feature Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kaggle Arrangement"
+              "title": "Feature Engineering"
             }
           }
         ]
@@ -184,10 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c455e062532a21cd",
+  "active": "25361abb9ca58182",
   "lastOpenFiles": [
-    "Deep Learning/Efficient-net.md",
+    "Machine Learning/Untitled.md",
     "Coding Best Practice/Kaggle Arrangement.md",
+    "Deep Learning/Efficient-net.md",
     "Coding Best Practice"
   ]
 }
