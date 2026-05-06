@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Engineering/Mutual Information.md",
+=======
+                "file": "Machine Learning/Untitled.md",
+>>>>>>> refs/remotes/origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Mutual Information"
+=======
+              "title": "Untitled"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -156,13 +164,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Engineering/Mutual Information.md",
+=======
+                "file": "Machine Learning/Untitled.md",
+>>>>>>> refs/remotes/origin/main
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Mutual Information"
+=======
+              "title": "Outline of Untitled"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ],
@@ -186,6 +202,7 @@
   },
   "active": "5e78f0ecc56c6f1f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Engineering/K.md",
     "Engineering/Mutual Information.md",
     "Engineering/Target Encoding.md",
@@ -204,31 +221,59 @@
     "Machine Learning/K-Mean.md",
     "Machine Learning/Clustering.md",
     "Machine Learning/LDA.md",
+=======
+    "Machine Learning/Feature Engineering.md",
+    "Machine Learning/Untitled.md",
+    "Machine Learning/Algorithm/Tree-Based/XGBoost.md",
+    "Machine Learning/Machine Learning Algorithm/Untitled.md",
+    "Machine Learning",
+    "Machine Learning/Algorithm/Tree-Based/Boosting.md",
+    "Machine Learning/Algorithm/Gaussian Mixture Model.md",
+    "Machine Learning/Algorithm/DBSCAN.md",
+    "Machine Learning/Algorithm/Hierarchical Clustering.md",
+    "Machine Learning/Algorithm/K-Mean.md",
+    "Machine Learning/Algorithm/Clustering.md",
+    "Machine Learning/Algorithm/LDA.md",
+>>>>>>> refs/remotes/origin/main
     "Pasted image 20260421205101.png",
     "Pasted image 20260421203322.png",
     "Pasted image 20260421202541.png",
     "Pasted image 20260421202544.png",
     "Pasted image 20260421202543.png",
     "Math/Bayes Theorem.md",
-    "Machine Learning/Unsupervised Learning.md",
-    "Machine Learning/PCA.md",
+    "Machine Learning/Algorithm/Unsupervised Learning.md",
+    "Machine Learning/Algorithm/PCA.md",
     "K-Means.md",
+<<<<<<< HEAD
     "Machine Learning/Tree-Based/Boosting.md",
     "Machine Learning/Tree-Based/Random Forests.md",
     "Machine Learning/Tree-Based/Bagging.md",
     "Machine Learning/Tree-Based/Node Purity.md",
     "Machine Learning/Tree-Based/Decision Tree.md",
     "Machine Learning/Tree-Based/Decision Nodes.md",
+=======
+    "Machine Learning/Algorithm/Tree-Based/Random Forests.md",
+    "Machine Learning/Algorithm/Tree-Based/Bagging.md",
+    "Machine Learning/Algorithm/Tree-Based/Node Purity.md",
+    "Machine Learning/Algorithm/Tree-Based/Decision Tree.md",
+    "Machine Learning/Algorithm/Tree-Based/Decision Nodes.md",
+    "Machine Learning/Algorithm/Tree-Based/Ensemble Decision Tree.md",
+    "Machine Learning/Algorithm/Tree-Based/Recursive Binary Splitting.md",
+    "Machine Learning/Algorithm/Tree-Based/Leaf Nodes.md",
+    "Template/Topic.md",
+    "Machine Learning/Algorithm/QDA.md",
+    "Machine Learning/Algorithm/SVM/SVM.md",
+>>>>>>> refs/remotes/origin/main
     "Machine Learning/PCA",
     "Machine Learning/Discriminant Analysis",
-    "Machine Learning/Tree-Based",
+    "Machine Learning/Algorithm/Tree-Based",
     "Math/Math Optimization",
     "Math",
     "Machine Learning/SVM/Pasted image 20260419001449.png",
     "Pasted image 20260419000627.png",
     "Machine Learning/SVM/Pasted image 20260419000711.png",
-    "Machine Learning/SVM",
-    "Machine Learning",
+    "Machine Learning/Algorithm/SVM",
+    "Machine Learning/Algorithm",
     "Template"
   ]
 }

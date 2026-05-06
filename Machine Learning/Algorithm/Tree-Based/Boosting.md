@@ -21,6 +21,10 @@ $$
 f(x) = \sum_{t=1}^{T} \lambda f_t(x)
 $$
 
+### Loss Function
+
+$$L(h(x),y) = \frac{1}{2}\lvert\lvert \hat{y}-y \rvert\rvert^2_{2}$$
+
 ### Steps:
 
 1. Compute residuals (for MSE case):
