@@ -2,9 +2,8 @@
 type: knowledge-note
 created:
 tags:
-  - signal-processing
-  - deep-learning
   - math
+  - CNN
 aliases:
   - Conv
 ---
@@ -125,39 +124,24 @@ For learned kernels, difference usually not important.
 
 ### Important Parameters in CNNs
 
-#### Kernel Size
+* **Kernel Size**
+	* Controls the local receptive field.
+	* *Examples:* $3 \times 3$, $5 \times 5$, $7 \times 7$
 
-Controls local receptive field.
+* **Stride**
+	* The step size of the kernel's movement across the input.
+	* A larger stride results in a smaller output spatial size.
 
-Examples:
+* **Padding**
+	* Adds border values around the input matrix.
+	* Used to precisely control the output size.
+	* *Common types:*
+	* **Valid:** No padding applied.
+	* **Same:** Pads the input to preserve the original spatial size.
 
-- $3 \times 3$
-- $5 \times 5$
-- $7 \times 7$
-
-#### Stride
-
-Step size of kernel movement.
-
-Larger stride -> smaller output.
-
-#### Padding
-
-Adds border values.
-
-Used to control output size.
-
-Common types:
-
-- valid -> no padding
-- same -> preserve spatial size
-
-#### Dilation
-
-Adds gaps inside kernel.
-
-Increases receptive field without increasing parameter count.
-
+* **Dilation**
+	* Adds gaps inside the kernel itself.
+	* Increases the receptive field without increasing the actual parameter count.
 
 ### Common Mistakes
 
