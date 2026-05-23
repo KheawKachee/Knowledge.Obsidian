@@ -3,6 +3,7 @@ type: knowledge-note
 created: 2026-05-17 16:38
 tags:
 aliases: []
+references: https://arxiv.org/pdf/1704.04861
 ---
 
 

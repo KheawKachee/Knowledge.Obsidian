@@ -1,8 +1,9 @@
 ---
 type: knowledge-note
-created: 2026-05-17 16:38
+created: 2026-05-18 13:58
 tags:
 aliases: []
+references: https://arxiv.org/abs/2304.08069
 ---
 
 

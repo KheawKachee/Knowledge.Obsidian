@@ -1,16 +1,16 @@
 ---
 type: knowledge-note
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-05-18 12:13
 tags:
 aliases: []
-references:
+references: https://arxiv.org/abs/1610.02391
 ---
 
 
 ### Summary
 
 > [!abstract] 
-> <% tp.file.cursor() %>
+> 
 
 
 ### *insert here*

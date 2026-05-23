@@ -57,11 +57,6 @@ Useful engineered features:
 - holiday flag
 - promotion flag
 
-## Failure Mode
-Model sees holiday spike once -> assumes normal pattern.
-
-### *insert here*
-
 ## Connections
 * **Parent:** [[ ]]
 * **Similar:** [[ ]]

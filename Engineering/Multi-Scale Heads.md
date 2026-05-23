@@ -1,19 +1,26 @@
 ---
 type: knowledge-note
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-05-18 09:20
 tags:
 aliases: []
-references:
 ---
 
 
 ### Summary
 
 > [!abstract] 
-> <% tp.file.cursor() %>
+> 
 
 
-### *insert here*
+### FPN
+
+
+### DW-Sep
+
+
+### NAS Concepts
+
+
 
 ## Connections
 * **Parent:** [[ ]]
