@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/HRNet.md",
+                "file": "Engineering/Model Format.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRNet"
+              "title": "Model Format"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "c455e062532a21cd",
   "lastOpenFiles": [
-    "Deep Learning/LSNet.md",
+    "Engineering/Nvidia Deepstream.md",
+    "Engineering/Deployment & Scale.md",
+    "Engineering/Model Format.md",
+    "Approaches/Approaching Edge Devices.md",
+    "Deep Learning/Untitled.md",
     "Deep Learning/HRNet.md",
+    "Deep Learning/LSNet.md",
     "Deep Learning/MobileNet.md",
     "Deep Learning/RT-DETR.md",
     "Deep Learning/VQ-VAE.md",
@@ -209,7 +214,6 @@
     "Engineering/Transfer Learning.md",
     "Engineering/Quantization.md",
     "Engineering/Knowledge Distillation.md",
-    "Approaches/Approaching Edge Devices.md",
     "Machine Learning/Algorithm/Clustering.md",
     "Engineering/Structured Pruning.md",
     "Approaches/Approaching Time Series Forecast.md",
@@ -221,11 +225,7 @@
     "Deep Learning/Algorithm/NMS.md",
     "Coding Best Practice/Kaggle Arrangement.md",
     "Deep Learning/Algorithm",
-    "Engineering/Untitled.md",
     "Time Series.md",
-    "Edge Devices.md",
-    "EDA/Grad-CAM.md",
-    "Engineering/Batching.md",
     "Math/Convolution",
     "Math/Evaluation Metrics",
     "Time Serires",

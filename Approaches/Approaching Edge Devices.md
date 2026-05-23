@@ -15,10 +15,6 @@ references:
 
 ### Legacy Bottleneck
 
-- Sensor-based device
-- Low bandwidth
-- Installation cost
-- Limited object features (often detect presence, not attributes)
 
 ### Applying AI
 
@@ -31,60 +27,10 @@ references:
 - Two steps : Region Proposal Network + Feature Extraction/Classification (R-CNN)
 - One step : predict bounding box, classes and confidence score in one step (YOLO)
 
-### Edge vs Cloud
-
-- Edge : ultra low latency / limit computation and data size
-- Cloud : higher latency / strong computation capability
-
-### Model Comparison
-
-| Project Constraint   | [[YOLO]] (v10/v12)                            | [[RT-DETR]]                              |
-| -------------------- | --------------------------------------------- | ---------------------------------------- |
-| **Best Use Case**    | Highways, Toll Booths, Parking Lots           | Complex Urban Intersections, Roundabouts |
-| **Primary Strength** | Raw FPS, High localization for License Plates | Severe occlusion, contextual reasoning   |
-| **Primary Weakness** | Struggles when targets are heavily blocked    | High memory bandwidth requirement        |
-| **Hardware Target**  | Jetson Nano / Orin NX (15W - 25W)             | Jetson AGX Orin / Thor (40W - 60W+)      |
-| **Latency Profile**  | Sub-10ms (Ultra-Low)                          | 15ms - 25ms (Moderate)                   |
-
----
 ### Efficiency Score
 
 - Eval metric / GFLOPS
 
-
-### [[Structured Pruning#Summary]] 
-
-
-### [[Quantization#Summary]]
-
-
-### [[Knowledge Distillation#Summary]]
-
-
-### [[Multi-Scale Heads#Summary]]
-
-
-### [[Deployment & Scale#Summary]]
-
-
-Batching in multi nput real tiem inference
-
-### [[Transfer Learning#Summary]]
-
-### Next Hackathon maybe
-
-- Car indentification using multi camera
-- we detect bbox to get
-	- "white Toyota sedan plate number 'xxx' "
-- then we use those to query id via re-id with several method
-	- bayesian 
-	- graph
-- finally we get most possible id of that entity
-
-then paper to research is
-- lightweight YOLO for Jetson
-- License plate OCR
-- Re-ID 
 
 
 ### Practical Pipeline
@@ -110,7 +56,6 @@ then paper to research is
 |                30% safer |                   9.4 GFLOPs |
 |         20% bad pipeline |                   6.3 GFLOPs |
 
-- MCMOT? (probably no)
 
 ## Connections
 * **Parent:** [[ ]]
